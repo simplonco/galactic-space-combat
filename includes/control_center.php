@@ -3,7 +3,7 @@
 $HOST = 'localhost';
 $DBNAME = 'test';
 $LOGIN = 'root';
-$PASSWORD = 'root';
+$PASSWORD = 'simplonco';
 
 // Connect to the MySQL local database
 try {
@@ -58,7 +58,8 @@ if (!$success) {
 
 <?php
 // TODO: SELECT * is a bad coding practice..
-$req = $bdd->prepare('SELECT * from tasks WHERE private_key = ?');
+//I added name, is_running instead of asterice(*)
+$req = $bdd->prepare('SELECT name, is_running from tasks WHERE private_key = ?');
 $req->execute(array($_GET['key']));
 
 while ($task = $req->fetch()) {
