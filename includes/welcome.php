@@ -1,7 +1,7 @@
 <h1>Galactic Space Combat :: Welcome</h1>
 
 <!-- TODO: PHP Notice: Undefined index error -->
-<?php if ($_GET['error']) { ?>
+<?php if ($_GET && $_GET['error']) { ?>
 <div class="alert alert-error"><?php echo htmlspecialchars($_GET['error']); ?></div>
 <?php } ?>
 

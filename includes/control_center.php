@@ -17,7 +17,7 @@ try {
 
 <!-- TODO: Duplicate.. -->
 <?php if ($_GET['error']) { ?>
-<div class="alert alert-error"><?php echo htmlspecialchars($_GET['error']); ?></div>
+<div class="alert alert-error"><?php echo htmlspecialchars(htmlspecialchars($_GET['error'])); ?></div>
 <?php } ?>
 
 <h2>Captain Informations</h2>
