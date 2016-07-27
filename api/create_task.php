@@ -13,7 +13,7 @@
 $HOST = 'localhost';
 $DBNAME = 'test';
 $LOGIN = 'root';
-$PASSWORD = 'root';
+$PASSWORD = 'simplonco';
 // TODO: Duplicate again.. look in signup.php and control_center.php files
 
 // Connect to the MySQL local database

@@ -20,7 +20,7 @@ for ($i = 0; $i < $LENGTH; $i++) { // TODO: $LENGHT could be a parameter
 $HOST = 'localhost';
 $DBNAME = 'test';
 $LOGIN = 'root';
-$PASSWORD = 'root';
+$PASSWORD = 'simplonco';
 // TODO: Define MySQL settings only one time..
 
 // Connect to the MySQL local database
