@@ -1,0 +1,13 @@
+body {
+    background-color: #fff;
+    color: #111;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    margin-left: 20px;
+    font-size: 85%;
+}
+h1, h2 {
+    color: #0e618c;
+}
+p {
+    max-width: 60em;
+}

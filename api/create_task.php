@@ -1,3 +1,4 @@
+
 <?php
 
 /*** Create a new task ***
@@ -10,10 +11,7 @@
  */
 
 // Database settings
-$HOST = 'localhost';
-$DBNAME = 'test';
-$LOGIN = 'root';
-$PASSWORD = 'simplonco';
+include 'include.php';
 // TODO: Duplicate again.. look in signup.php and control_center.php files
 
 // Connect to the MySQL local database

@@ -1,10 +1,7 @@
 <?php
-// Database settings
-$HOST = 'localhost';
-$DBNAME = 'test';
-$LOGIN = 'root';
-$PASSWORD = 'simplonco';
+//Database settings
 
+include 'include.php';
 // Connect to the MySQL local database
 try {
     $bdd = new PDO('mysql:host='.$HOST.';dbname='.$DBNAME.';charset=utf8', $LOGIN, $PASSWORD);

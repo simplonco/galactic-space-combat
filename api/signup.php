@@ -5,6 +5,8 @@
  * POST:
  *  - username
  */
+ //Database settings
+include 'include.php';
 
 $LENGTH = 64; // private key length match MySQL settings
 
@@ -16,11 +18,6 @@ for ($i = 0; $i < $LENGTH; $i++) { // TODO: $LENGHT could be a parameter
     $private_key .= $characters[rand(0, $charactersLength - 1)];
 }
 
-// Database settings
-$HOST = 'localhost';
-$DBNAME = 'test';
-$LOGIN = 'root';
-$PASSWORD = 'simplonco';
 // TODO: Define MySQL settings only one time..
 
 // Connect to the MySQL local database

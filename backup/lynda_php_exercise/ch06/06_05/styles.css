@@ -1,0 +1,14 @@
+body {
+    background-color: #fff;
+    color: #111;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    margin-left: 20px;
+    font-size: 85%;
+}
+h1 {
+    color: rgb(14, 97, 140);
+    margin-left: 15px;
+}
+ul {
+    margin-left: 40px;
+}
