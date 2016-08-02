@@ -1,8 +1,6 @@
 # Galactic Space Combat
 
-Inspirations :
-
-https://fr.wikipedia.org/wiki/OGame (pour ceux qui savent)
+Inspirations : https://fr.wikipedia.org/wiki/OGame (pour ceux qui savent)
 
 Salut tout le monde, bienvenue sur ce super projet qui va nous faire progresser tous ensemble.
 
