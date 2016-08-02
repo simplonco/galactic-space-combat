@@ -1,5 +1,7 @@
 # Galactic Space Combat
 
+![Space](http://www.unoosa.org/res/timeline/index_html/space-2.jpg)
+
 Inspirations : https://fr.wikipedia.org/wiki/OGame (pour ceux qui savent)
 
 Salut tout le monde, bienvenue sur ce super projet qui va nous faire progresser tous ensemble.
