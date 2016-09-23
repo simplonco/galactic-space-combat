@@ -1,0 +1,10 @@
+{
+    "name": "yvan/galactic-space-combat",
+    "authors": [
+        {
+            "name": "Yvan Sraka",
+            "email": "yvan.sraka@gmail.com"
+        }
+    ],
+    "require": {}
+}
