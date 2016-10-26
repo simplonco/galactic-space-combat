@@ -1,4 +1,4 @@
-## Galactic Space Combat :space_invader:
+## Galactic Space Combat :space_invader: [![Build Status](https://travis-ci.org/simplonco/galactic-space-combat.svg?branch=master)](https://travis-ci.org/simplonco/galactic-space-combat)
 
 ![Space](http://www.unoosa.org/res/timeline/index_html/space-2.jpg)
 
