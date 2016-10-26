@@ -1,4 +1,4 @@
-# Galactic Space Combat
+## Galactic Space Combat :space_invader:
 
 ![Space](http://www.unoosa.org/res/timeline/index_html/space-2.jpg)
 
